@@ -7,8 +7,16 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "NavigationMenu.h"
 
-@interface ViewController : UIViewController <UITextFieldDelegate>
+@interface ViewController : UIViewController <UITextFieldDelegate, NavigationMenuDelegate> {
+	
+	NavigationMenu *protocol;
+}
+
+- (IBAction)navButtonPressed:(id)sender;
+
+
 @property (retain, nonatomic) IBOutlet UITextView *txtStatus;
 @property (retain, nonatomic) IBOutlet UITextField *txtTestData;
 

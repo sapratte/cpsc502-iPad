@@ -47,6 +47,20 @@
 		7E9522561A09670C00EEE91C /* Device.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E9522551A09670C00EEE91C /* Device.m */; };
 		7E9522591A096A6800EEE91C /* Observer.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E9522581A096A6800EEE91C /* Observer.m */; };
 		7ED3A55D19557391001ACDAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21B53C6418D22A9600136835 /* Main.storyboard */; };
+		8C46B63C1AC369EE00BCED41 /* NavigationMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C46B6391AC369EE00BCED41 /* NavigationMenu.m */; };
+		8C46B63D1AC369EE00BCED41 /* POSManagerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C46B63B1AC369EE00BCED41 /* POSManagerViewController.m */; };
+		8CED702D1AC3655A00A40BCB /* Retail_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CED702C1AC3655A00A40BCB /* Retail_iPad.storyboard */; };
+		8CED70431AC366E300A40BCB /* button1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CED70381AC366E300A40BCB /* button1@2x.png */; };
+		8CED70441AC366E300A40BCB /* button2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CED70391AC366E300A40BCB /* button2@2x.png */; };
+		8CED70451AC366E300A40BCB /* button3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CED703A1AC366E300A40BCB /* button3@2x.png */; };
+		8CED70461AC366E300A40BCB /* button4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CED703B1AC366E300A40BCB /* button4@2x.png */; };
+		8CED70471AC366E300A40BCB /* main_screen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CED703C1AC366E300A40BCB /* main_screen@2x.png */; };
+		8CED70481AC366E300A40BCB /* moveToWall@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CED703D1AC366E300A40BCB /* moveToWall@2x.png */; };
+		8CED70491AC366E300A40BCB /* navButton_selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CED703E1AC366E300A40BCB /* navButton_selected@2x.png */; };
+		8CED704A1AC366E300A40BCB /* navButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CED703F1AC366E300A40BCB /* navButton@2x.png */; };
+		8CED704B1AC366E300A40BCB /* onWallReward@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CED70401AC366E300A40BCB /* onWallReward@2x.png */; };
+		8CED704C1AC366E300A40BCB /* pos1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CED70411AC366E300A40BCB /* pos1@2x.png */; };
+		8CED704D1AC366E300A40BCB /* rewardIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CED70421AC366E300A40BCB /* rewardIcon@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -118,6 +132,22 @@
 		7E9522571A096A6800EEE91C /* Observer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Observer.h; sourceTree = "<group>"; };
 		7E9522581A096A6800EEE91C /* Observer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Observer.m; sourceTree = "<group>"; };
 		7ED3A55B1955735E001ACDAD /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8C46B6381AC369EE00BCED41 /* NavigationMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavigationMenu.h; sourceTree = "<group>"; };
+		8C46B6391AC369EE00BCED41 /* NavigationMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavigationMenu.m; sourceTree = "<group>"; };
+		8C46B63A1AC369EE00BCED41 /* POSManagerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = POSManagerViewController.h; sourceTree = "<group>"; };
+		8C46B63B1AC369EE00BCED41 /* POSManagerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = POSManagerViewController.m; sourceTree = "<group>"; };
+		8CED702C1AC3655A00A40BCB /* Retail_iPad.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Retail_iPad.storyboard; sourceTree = "<group>"; };
+		8CED70381AC366E300A40BCB /* button1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button1@2x.png"; sourceTree = "<group>"; };
+		8CED70391AC366E300A40BCB /* button2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button2@2x.png"; sourceTree = "<group>"; };
+		8CED703A1AC366E300A40BCB /* button3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button3@2x.png"; sourceTree = "<group>"; };
+		8CED703B1AC366E300A40BCB /* button4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button4@2x.png"; sourceTree = "<group>"; };
+		8CED703C1AC366E300A40BCB /* main_screen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "main_screen@2x.png"; sourceTree = "<group>"; };
+		8CED703D1AC366E300A40BCB /* moveToWall@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "moveToWall@2x.png"; sourceTree = "<group>"; };
+		8CED703E1AC366E300A40BCB /* navButton_selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "navButton_selected@2x.png"; sourceTree = "<group>"; };
+		8CED703F1AC366E300A40BCB /* navButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "navButton@2x.png"; sourceTree = "<group>"; };
+		8CED70401AC366E300A40BCB /* onWallReward@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "onWallReward@2x.png"; sourceTree = "<group>"; };
+		8CED70411AC366E300A40BCB /* pos1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pos1@2x.png"; sourceTree = "<group>"; };
+		8CED70421AC366E300A40BCB /* rewardIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rewardIcon@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -243,6 +273,7 @@
 		21B53C5818D22A9600136835 /* SOD-iOS-Client */ = {
 			isa = PBXGroup;
 			children = (
+				8CED704E1AC366F000A40BCB /* Images */,
 				2127148D19510D7E00E8FFF7 /* SOD */,
 				21B53C6118D22A9600136835 /* AppDelegate.h */,
 				21B53C6218D22A9600136835 /* AppDelegate.m */,
@@ -251,6 +282,11 @@
 				21B53C6818D22A9600136835 /* ViewController.m */,
 				21B53C6A18D22A9600136835 /* Images.xcassets */,
 				21B53C5918D22A9600136835 /* Supporting Files */,
+				8CED702C1AC3655A00A40BCB /* Retail_iPad.storyboard */,
+				8C46B6381AC369EE00BCED41 /* NavigationMenu.h */,
+				8C46B6391AC369EE00BCED41 /* NavigationMenu.m */,
+				8C46B63A1AC369EE00BCED41 /* POSManagerViewController.h */,
+				8C46B63B1AC369EE00BCED41 /* POSManagerViewController.m */,
 			);
 			path = "SOD-iOS-Client";
 			sourceTree = "<group>";
@@ -282,6 +318,24 @@
 				21B53C7A18D22A9600136835 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8CED704E1AC366F000A40BCB /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				8CED70381AC366E300A40BCB /* button1@2x.png */,
+				8CED70391AC366E300A40BCB /* button2@2x.png */,
+				8CED703A1AC366E300A40BCB /* button3@2x.png */,
+				8CED703B1AC366E300A40BCB /* button4@2x.png */,
+				8CED703C1AC366E300A40BCB /* main_screen@2x.png */,
+				8CED703D1AC366E300A40BCB /* moveToWall@2x.png */,
+				8CED703E1AC366E300A40BCB /* navButton_selected@2x.png */,
+				8CED703F1AC366E300A40BCB /* navButton@2x.png */,
+				8CED70401AC366E300A40BCB /* onWallReward@2x.png */,
+				8CED70411AC366E300A40BCB /* pos1@2x.png */,
+				8CED70421AC366E300A40BCB /* rewardIcon@2x.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -363,19 +417,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CED70491AC366E300A40BCB /* navButton_selected@2x.png in Resources */,
 				212714B919510D7F00E8FFF7 /* CONTRIBUTORS.md in Resources */,
+				8CED70431AC366E300A40BCB /* button1@2x.png in Resources */,
+				8CED704C1AC366E300A40BCB /* pos1@2x.png in Resources */,
 				212714B119510D7F00E8FFF7 /* README.md in Resources */,
 				212714B619510D7F00E8FFF7 /* .gitignore in Resources */,
 				21B53C6B18D22A9600136835 /* Images.xcassets in Resources */,
 				212714AE19510D7F00E8FFF7 /* .gitignore in Resources */,
 				212714BA19510D7F00E8FFF7 /* LICENSE in Resources */,
+				8CED70461AC366E300A40BCB /* button4@2x.png in Resources */,
+				8CED70471AC366E300A40BCB /* main_screen@2x.png in Resources */,
 				212714BB19510D7F00E8FFF7 /* README.md in Resources */,
 				7ED3A55D19557391001ACDAD /* Main.storyboard in Resources */,
+				8CED704A1AC366E300A40BCB /* navButton@2x.png in Resources */,
+				8CED70441AC366E300A40BCB /* button2@2x.png in Resources */,
 				212714AF19510D7F00E8FFF7 /* .gitmodules in Resources */,
 				21B53C5D18D22A9600136835 /* InfoPlist.strings in Resources */,
 				212714B719510D7F00E8FFF7 /* .gitmodules in Resources */,
 				212714B819510D7F00E8FFF7 /* CHANGELOG.md in Resources */,
+				8CED70481AC366E300A40BCB /* moveToWall@2x.png in Resources */,
+				8CED70451AC366E300A40BCB /* button3@2x.png in Resources */,
 				212714B019510D7F00E8FFF7 /* LICENSE in Resources */,
+				8CED704B1AC366E300A40BCB /* onWallReward@2x.png in Resources */,
+				8CED704D1AC366E300A40BCB /* rewardIcon@2x.png in Resources */,
+				8CED702D1AC3655A00A40BCB /* Retail_iPad.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -395,6 +461,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				212714B419510D7F00E8FFF7 /* SRWebSocket.m in Sources */,
+				8C46B63D1AC369EE00BCED41 /* POSManagerViewController.m in Sources */,
 				212714B319510D7F00E8FFF7 /* NSData+SRB64Additions.m in Sources */,
 				212714BE19510D7F00E8FFF7 /* SocketIOPacket.m in Sources */,
 				7E9522591A096A6800EEE91C /* Observer.m in Sources */,
@@ -405,6 +472,7 @@
 				21B53C5F18D22A9600136835 /* main.m in Sources */,
 				212714BF19510D7F00E8FFF7 /* SocketIOTransportWebsocket.m in Sources */,
 				212714BC19510D7F00E8FFF7 /* SocketIO.m in Sources */,
+				8C46B63C1AC369EE00BCED41 /* NavigationMenu.m in Sources */,
 				7E9522561A09670C00EEE91C /* Device.m in Sources */,
 				212714B519510D7F00E8FFF7 /* SOD.m in Sources */,
 				212714BD19510D7F00E8FFF7 /* SocketIOJSONSerialization.m in Sources */,
@@ -539,6 +607,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)Developer/**",
 					"$(inherited)",
@@ -558,7 +627,8 @@
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "-lc++";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -570,6 +640,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)Developer/**",
 					"$(inherited)",
@@ -589,7 +660,8 @@
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "-lc++";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
